@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "execSSRS", "execSSRS\execSSRS.dtproj", "{535A9BA2-FC75-413D-8151-A99C0928DB57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{535A9BA2-FC75-413D-8151-A99C0928DB57}.Development|Default.ActiveCfg = Development
+		{535A9BA2-FC75-413D-8151-A99C0928DB57}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9E386AB-CEFA-4165-9F30-B645F85C974A}
+	EndGlobalSection
+EndGlobal
